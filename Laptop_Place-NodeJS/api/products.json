@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "61b5ca7320b43dcdfc4840dd"
+  },
+  "productName": "MACBOOK PRO 16",
+  "productDescription": "The most powerful MacBook Pro ever is here",
+  "productPrice": 4000,
+  "productImage": "https://www.idigital.co.il/files/MacBook_Pro_2021/MBP16/MacBook_Pro16_002.png",
+  "productCategory": "Computer",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5afa46c572bb93654452d"
+  },
+  "user_email": "user2@gmail.com",
+  "productNumber": "790341",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5cb0120b43dcdfc4840e3"
+  },
+  "productName": "GALAXY CHROMEBOOK 2",
+  "productDescription": "Intel® Celeron® Processor, 64GB, 4GB RAM, Fiesta Red",
+  "productPrice": 5000,
+  "productImage": "https://image-us.samsung.com/SamsungUS/home/computing/chromebooks/xe530qda-ka1us/gallery/02-02-2021/Position1.jpg?$product-details-jpg$",
+  "productCategory": "Computer",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5af906c572bb93654452a"
+  },
+  "user_email": "user1@gmail.com",
+  "productNumber": "338804",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5cb7e20b43dcdfc4840e9"
+  },
+  "productName": "SCREEN ODYSSEY 27''",
+  "productDescription": "27\" Odyssey G7 Gaming Monitor",
+  "productPrice": 300,
+  "productImage": "https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming-monitors/pdp/lc32g75tqsnxza/gallery/C32G75T_001_Front1_Black-Gallery-1600x1200.jpg?$product-details-jpg$",
+  "productCategory": "Screen",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5afac6c572bb936544530"
+  },
+  "user_email": "user3@gmail.com",
+  "productNumber": "883418",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5cc5a20b43dcdfc4840ef"
+  },
+  "productName": "PRECISION 3650 TOWER",
+  "productDescription": "10th Generation Intel® Core™ i7-10700K, Windows 10 Pro ",
+  "productPrice": 2000,
+  "productImage": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/workstations/fixed_workstations/precision/3650/media_gallery/peripherals_desktop_precision_3650_gallery_2.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=294&qlt=100,0&resMode=sharp2&size=294,402",
+  "productCategory": "WorkStation",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5afc26c572bb936544533"
+  },
+  "user_email": "user1b@gmail.com",
+  "productNumber": "239689",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5cc9e20b43dcdfc4840f3"
+  },
+  "productName": "PRECISION 3930 RACK - BUILD YOUR OWN",
+  "productDescription": "Intel Core i3-9100,(4 Core, 6MB Cache, 3.6Ghz, 4.2 Ghz Turbo w/UHD Graphics 630)",
+  "productPrice": 100,
+  "productImage": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/workstations/fixed_workstations/precision/3430/3930/media_gallery/workstations_desktop_precision_3930_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=915&qlt=100,0&resMode=sharp2&size=915,402",
+  "productCategory": "WorkStation",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5afc26c572bb936544533"
+  },
+  "user_email": "user1b@gmail.com",
+  "productNumber": "762871",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5cd1520b43dcdfc4840f9"
+  },
+  "productName": "SMART VALUE POWEREDGE R740 SERVER BASIC",
+  "productDescription": "Maximize application performance with the optimal mix of accelerator cards, storage and compute power in a 2U, 2-socket platform optimized for VDI.",
+  "productPrice": 1000,
+  "productImage": "https://i.dell.com/is/image/DellContent//content/dam/global-asset-library/Products/Enterprise_Servers/PowerEdge/r740/dellemc_per740_24x25_bezel_LCD_2_above_ff_bold_reflection.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=920&qlt=100,0&resMode=sharp2&size=920,402",
+  "productCategory": "Server",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5afd16c572bb936544537"
+  },
+  "user_email": "user2b@gmail.com",
+  "productNumber": "736410",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5cde420b43dcdfc484101"
+  },
+  "productName": "DELL ULTRASHARP WEBCAM",
+  "productDescription": "4K High Dynamic Range (HDR) webcam with a large 4K Sony STARVIS™ CMOS sensor captures more light delivering crystal-clear video and the best image quality in its classi.",
+  "productPrice": 200,
+  "productImage": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/peripherals/webcams/wb7022-dell-premier-webcam/media_gallery/peripherals_webcam_wb7022_gallery_5.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=415&qlt=100,0&resMode=sharp2&size=415,402",
+  "productCategory": "Webcam",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-12T10:02:03.876Z"
+  },
+  "user_id": {
+    "$oid": "61b5afe56c572bb93654453b"
+  },
+  "user_email": "user3b@gmail.com",
+  "productNumber": "875183",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bef16c5dfea952e079fa37"
+  },
+  "productName": "COMPUTER ALL IN ONE",
+  "productDescription": "Dell Inspiron One 2205 All-in-One Touch Screen Computer",
+  "productPrice": 5500,
+  "productCategory": "Computer",
+  "userPhone": "054378495",
+  "createdAt": {
+    "$date": "2021-12-19T08:36:51.234Z"
+  },
+  "user_id": {
+    "$oid": "61b5afc26c572bb936544533"
+  },
+  "user_email": "user1b@gmail.com",
+  "productNumber": "296148",
+  "productImage": "http://www.sitech.co.id/assets/img/products/default.jpg",
+  "__v": 0
+}]

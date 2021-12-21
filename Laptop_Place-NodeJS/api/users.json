@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "61b5af906c572bb93654452a"
+  },
+  "lastname": "user1",
+  "firstname": "user",
+  "email": "user1@gmail.com",
+  "password": "$2b$10$MlJ0uAVPjNW1gI.zKujkoO5dFYc/ZpIe0q4ApTy1fgB9DPgrm1etK",
+  "phone": "053459403",
+  "biz": false,
+  "favProducts": [],
+  "favCards": [],
+  "date_created": {
+    "$date": "2021-12-12T08:15:12.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5afa46c572bb93654452d"
+  },
+  "lastname": "user2",
+  "firstname": "user",
+  "email": "user2@gmail.com",
+  "password": "$2b$10$0rw0zRJ87otk/hy9qqNFEe0uLcXY0fBHDfxYpXug.5VSZxrYYMrTa",
+  "phone": "053459403",
+  "biz": false,
+  "favProducts": [],
+  "favCards": [],
+  "date_created": {
+    "$date": "2021-12-12T08:15:32.845Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5afac6c572bb936544530"
+  },
+  "lastname": "user3",
+  "firstname": "user",
+  "email": "user3@gmail.com",
+  "password": "$2b$10$mlew9lK8VSPZ7xZYKu/g4e2aJUguBuAG36GbivGaNaLTxYeHnKVDq",
+  "phone": "053459403",
+  "biz": false,
+  "favProducts": [],
+  "favCards": [],
+  "date_created": {
+    "$date": "2021-12-12T08:15:40.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5afc26c572bb936544533"
+  },
+  "lastname": "user1b",
+  "firstname": "userb",
+  "email": "user1b@gmail.com",
+  "password": "$2b$10$K1yBElg1FDwO.7iHjPVNe.sKHe.YNW23nOoVO.sVZ4kdX/ISVgYd6",
+  "phone": "053459403",
+  "biz": true,
+  "favProducts": [
+    "61b5cb0120b43dcdfc4840e3",
+    "61b5cc5a20b43dcdfc4840ef",
+    "61bb68dae9e5ff745f416e85"
+  ],
+  "date_created": {
+    "$date": "2021-12-12T08:16:02.151Z"
+  },
+  "__v": 0,
+  "favCards": [
+    "61b72143e4a847e485a25429",
+    "61b5ff47055466226a0ca13b",
+    "61bef2115dfea952e079fa43"
+  ]
+},{
+  "_id": {
+    "$oid": "61b5afd16c572bb936544537"
+  },
+  "lastname": "user2b",
+  "firstname": "userb",
+  "email": "user2b@gmail.com",
+  "password": "$2b$10$p41LdtR6y4AxiJxvA.z53edXCe1w/XgqblcUMLP2p8A/QjgKU8lF6",
+  "phone": "053459403",
+  "biz": true,
+  "favProducts": [],
+  "favCards": [],
+  "date_created": {
+    "$date": "2021-12-12T08:16:17.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5afe56c572bb93654453b"
+  },
+  "lastname": "user3b",
+  "firstname": "userb",
+  "email": "user3b@gmail.com",
+  "password": "$2b$10$OmUPJBCOtRV8vMXvDTbyNe1zAkF1kExB01UgugKhnx84XQDPd6AIK",
+  "phone": "053459403",
+  "biz": true,
+  "favProducts": [],
+  "favCards": [],
+  "date_created": {
+    "$date": "2021-12-12T08:16:37.057Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,211 @@
+.bcg {
+  background-image: url(images/bcg1.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+body {
+  background: #000;
+}
+
+/* signin */
+.boxin {
+  background: linear-gradient(
+    to right,
+    rgba(72, 255, 0, 0.8),
+    rgba(0, 255, 179, 0.8)
+  );
+  color: darkblue;
+  --width: 130px;
+  --height: calc(var(--width) / 3);
+  width: var(--width);
+  height: var(--height);
+  text-align: center;
+  line-height: var(--height);
+  font-size: calc(var(--height) / 2.5);
+  font-family: sans-serif;
+  letter-spacing: 0.2em;
+  border: 1px solid darkgoldenrod;
+  border-radius: 2em;
+  transform: perspective(500px) rotateY(-15deg);
+  text-shadow: 6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+  position: relative;
+  overflow: hidden;
+}
+
+.boxin:hover {
+  transform: perspective(500px) rotateY(15deg);
+  text-shadow: -6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: -2px 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.boxin::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, transparent, white, transparent);
+  left: -100%;
+  transition: 0.5s;
+}
+
+.boxin:hover::before {
+  left: 100%;
+}
+
+/* signup */
+.boxup {
+  background: linear-gradient(
+    to right,
+    rgba(255, 217, 0, 0.8),
+    rgba(255, 140, 0, 0.8)
+  );
+  color: white;
+  --width: 130px;
+  --height: calc(var(--width) / 3);
+  width: var(--width);
+  height: var(--height);
+  text-align: center;
+  line-height: var(--height);
+  font-size: calc(var(--height) / 2.5);
+  font-family: sans-serif;
+  letter-spacing: 0.2em;
+  border: 1px solid darkgoldenrod;
+  border-radius: 2em;
+  transform: perspective(500px) rotateY(-15deg);
+  text-shadow: 6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+  position: relative;
+  overflow: hidden;
+}
+
+.boxup:hover {
+  transform: perspective(500px) rotateY(15deg);
+  text-shadow: -6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: -2px 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.boxup::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, transparent, white, transparent);
+  left: -100%;
+  transition: 0.5s;
+}
+
+.boxup:hover::before {
+  left: 100%;
+}
+
+/* signup biz */
+.boxbiz {
+  background: linear-gradient(
+    to right,
+    rgba(255, 217, 0, 0.8),
+    rgba(255, 140, 0, 0.8)
+  );
+  color: white;
+  --width: 240px;
+  --height: calc(var(--width) / 5.5);
+  width: var(--width);
+  height: var(--height);
+  text-align: center;
+  line-height: var(--height);
+  font-size: calc(var(--height) / 2.5);
+  font-family: sans-serif;
+  letter-spacing: 0.2em;
+  border: 1px solid darkgoldenrod;
+  border-radius: 2em;
+  transform: perspective(500px) rotateY(-15deg);
+  text-shadow: 6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+  position: relative;
+  overflow: hidden;
+}
+
+.boxbiz:hover {
+  transform: perspective(500px) rotateY(15deg);
+  text-shadow: -6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: -2px 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.boxbiz::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, transparent, white, transparent);
+  left: -100%;
+  transition: 0.5s;
+}
+
+.boxbiz:hover::before {
+  left: 100%;
+}
+
+/* logout */
+.boxred {
+  background: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.165),
+    rgb(255, 60, 0)
+  );
+  color: darkblue;
+  --width: 150px;
+  --height: calc(var(--width) / 3);
+  width: var(--width);
+  height: var(--height);
+  text-align: center;
+  line-height: var(--height);
+  font-size: calc(var(--height) / 2.5);
+  font-family: sans-serif;
+  letter-spacing: 0.2em;
+  border: 1px solid darkgoldenrod;
+  border-radius: 2em;
+  transform: perspective(500px) rotateY(-15deg);
+  text-shadow: 6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+  position: relative;
+  overflow: hidden;
+}
+
+.boxgreen:hover {
+  transform: perspective(500px) rotateY(15deg);
+  text-shadow: -6px 3px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: -2px 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.boxgreen::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, transparent, white, transparent);
+  left: -100%;
+  transition: 0.5s;
+}
+
+.boxgreen:hover::before {
+  left: 100%;
+}
+
+.square_btn {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 37px;
+  color: #799dec;
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.32), 0px 0px 0px #6182ca,
+    0px 0px 0px #4f6aa7, 0px 0px 0px #5470ad;
+}
+.square_btn:active {
+  top: 4px;
+  box-shadow: none;
+}

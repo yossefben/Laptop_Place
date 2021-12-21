@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "61b5fb92055466226a0ca127"
+  },
+  "bizName": "JERUSALEM COMPUTERS",
+  "bizDescription": "Unique conveniently to Mac users",
+  "bizAddress": "Sderot Ben Maimon, Jerusalem",
+  "bizPhone": "054386788",
+  "bizImage": "https://jerusalem-computers.com/wp-content/uploads/2016/06/logofinal-1.jpg",
+  "user_id": {
+    "$oid": "61b5afc26c572bb936544533"
+  },
+  "bizNumber": "394416",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5fd12055466226a0ca12f"
+  },
+  "bizName": "STRATASYS",
+  "bizDescription": "A world leader in 3D printing",
+  "bizAddress": "53 HaShalom Rd, Givatayim 5345433",
+  "bizPhone": "054386788",
+  "user_id": {
+    "$oid": "61b5afc26c572bb936544533"
+  },
+  "bizNumber": "613448",
+  "bizImage": "https://www.duns100.co.il/Areas/Uploads/companies//78c5b36f-5c1e-4307-956c-e6879e0383c0.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5fea9055466226a0ca135"
+  },
+  "bizName": "SEEBO",
+  "bizDescription": "Artificial intelligence - manufacturers",
+  "bizAddress": "Yitzhak Sadeh St 8, Tel Aviv-Yafo",
+  "bizPhone": "054386788",
+  "bizImage": "https://4qo5mh9zsg1vuscp2s427y1d-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Logo_light.svg",
+  "user_id": {
+    "$oid": "61b5afd16c572bb936544537"
+  },
+  "bizNumber": "474784",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b5ff47055466226a0ca13b"
+  },
+  "bizName": "AXONIZE",
+  "bizDescription": "Realize smart business potential",
+  "bizAddress": "Ha-Tidhar St 5, Ra'anana",
+  "bizPhone": "054386788",
+  "bizImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb50Y7FQqEvQSTS-7fATo28Rp9p0d7VUtJg&usqp=CAU",
+  "user_id": {
+    "$oid": "61b5afe56c572bb93654453b"
+  },
+  "bizNumber": "844155",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bef2115dfea952e079fa43"
+  },
+  "bizName": "IMPERVA",
+  "bizDescription": "cybersecurity leader ",
+  "bizAddress": "125 Menachem Begin Rd., Tel-Aviv",
+  "bizPhone": "054386788",
+  "user_id": {
+    "$oid": "61b5afe56c572bb93654453b"
+  },
+  "bizNumber": "284348",
+  "bizImage": "https://laurenceortegat.com/wp-content/uploads/2020/11/placeholder-16-9.jpg",
+  "__v": 0
+}]
