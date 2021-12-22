@@ -12,7 +12,7 @@ All users can also add favorites to the product and to the card, and remove them
 - Frontend Development : REACT
 - Backend Development : nodejs - express-scratch
 - Database : momgoDB
-- Deployment : Herocku : https://laptopplace.herokuapp.com/
+- Deployment : Heroku : https://laptopplace.herokuapp.com/
 
 ## Getting Started
 
