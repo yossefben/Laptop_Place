@@ -12,7 +12,8 @@ All users can also add favorites to the product and to the card, and remove them
 - Frontend Development : REACT
 - Backend Development : nodejs - express-scratch
 - Database : MONGODBCompass
-- Deployment : GITHUB / HEROKU : https://laptopplacegithub.herokuapp.com/
+- Deployment code : GITHUB : https://github.com/yossefben/Laptop_Place
+- Deployment web : HEROKU : https://laptopplacegithub.herokuapp.com/
 
 ## Getting Started
 
