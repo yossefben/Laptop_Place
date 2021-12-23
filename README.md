@@ -18,7 +18,7 @@ All users can also add favorites to the product and to the card, and remove them
 
 In the project directory, you can run:
 
-### `npm install`
+### NODE MODULES `npm install`
 
 Runs module in REACT and in NODEJS
 
@@ -51,7 +51,7 @@ user : user3b@gmail.com, password : 111111
 
 ## DEPLOYMENT : GITHUB / HEROKU
 
-### .gitignore
+### FILE `.gitignore`
 
 - NODE MODULES : to reduce the heavy
 
