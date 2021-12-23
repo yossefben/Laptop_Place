@@ -11,8 +11,8 @@ All users can also add favorites to the product and to the card, and remove them
 - Programming Languages : JS (javascript)
 - Frontend Development : REACT
 - Backend Development : nodejs - express-scratch
-- Database : momgoDB
-- Deployment : Heroku : https://laptopplace.herokuapp.com/
+- Database : MONGODBCompass
+- Deployment : GITHUB / HEROKU : https://laptopplacegithub.herokuapp.com/
 
 ## Getting Started
 
@@ -32,23 +32,39 @@ Open [http://localhost:3900](http://localhost:3900) to view it in the browser.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## MONGODB
+### DATABASE : MONGODBCompass
 
 I have created an API with users, cards and products
 I have attached the files in node JS, in the API folder
 
 the users are :
+
+User :
 user : user1@gmail.com, password : 111111
 user : user2@gmail.com, password : 111111
 user : user3@gmail.com, password : 111111
+
+User Business :
 user : user1b@gmail.com, password : 111111
 user : user2b@gmail.com, password : 111111
 user : user3b@gmail.com, password : 111111
 
-## CONFIG : File `secret`
+## DEPLOYMENT : GITHUB / HEROKU
 
-I didn't put the SECRET file in .gitignore for teachers or anyone who needs can look at the project
-
-## .gitignore
+### .gitignore
 
 - NODE MODULES : to reduce the heavy
+
+### FOLDER CONFIG : File `secret`
+
+I didn't put the SECRET file in .gitignore for teachers or anyone who needs to look at the code
+
+### GITHUB
+
+All the code is available on GITHUB : https://github.com/yossefben/Laptop_Place
+
+### HEROKU
+
+I have used HEROKU for the deployment with the GitHub Method
+
+https://laptopplacegithub.herokuapp.com/
