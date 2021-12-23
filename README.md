@@ -1,10 +1,10 @@
 # Project : Laptop_Place
 
-the project is a plateform for people who wants to buy or sell coputers products.
-It is also a plateform, for business employees or salaries, to share work experience.</br>
-Only Business Sign up can have access to the card section.
-All users can add as many products as they want and modify or delete them.
-All users can also add favorites to the product and to the card, and remove them.
+the project is a plateform for people who wants to buy or sell coputers products.</br>
+It is also a plateform, for business employees or salaries, to share work experiences.</br>
+Only Business Sign up can have an access to the card section.</br>
+All users can add as many products as they want and modify or delete them. </br>
+All users can also add favorites to the product and to the card, and remove them.</br>
 
 ## Development
 
